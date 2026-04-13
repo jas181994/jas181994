@@ -1,4 +1,4 @@
-### Hi there, I am Linux System Engineer.Intersted in projects related to containerization of Applications and automation of IT processes.
+### Hi there, I am Linux System Engineer.Interested in projects related to containerization of Applications and automation of IT processes.
 <!--
 **jas181994/jas181994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
